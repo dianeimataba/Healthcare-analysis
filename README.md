@@ -23,7 +23,7 @@ https://youtu.be/Gjt5jC4ODXY?si=GNRrxHOxil_Te3go
 - Windows Server 2022
 - Windows 10 (21H2)
 
-  Nurse Attrition by Work load, Environment satisfaction,
+  Nurse Attrition by Work load, Environment satisfaction,Monthly Income, Age, 
 
   <img width="538" alt="image" src="https://github.com/user-attachments/assets/b160f95c-6a94-420d-acde-36cf1875c408" />
 
